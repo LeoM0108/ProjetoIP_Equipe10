@@ -94,6 +94,7 @@ def eventos():
         menu_selection = 400
 
     if menu_selection == 11:
+        menu_selection=1
         main()
 
     if menu_selection == 12:
