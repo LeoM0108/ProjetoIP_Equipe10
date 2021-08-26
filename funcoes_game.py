@@ -34,7 +34,7 @@ class Funcoes_game():
                 if event.key == pygame.K_DOWN or event.key == K_s:
                     player.changespeed(0, 5)
                 if event.key == pygame.K_ESCAPE:
-                    done = True
+                    sys.exit()
                     
 
             if event.type == pygame.KEYUP:
