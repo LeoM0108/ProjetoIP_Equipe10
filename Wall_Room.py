@@ -22,7 +22,9 @@ class Wall(pygame.sprite.Sprite):
  
         # Make a BLUE wall, of the size specified in the parameters
         self.image = pygame.Surface([width, height])
-        self.image.fill(color)
+        self.image = pygame.image.load("sprites/lava.png")
+        self.image = pygame.transform.scale(self.image,(width,height))
+
  
         # Make our top-left corner the passed-in location.
         self.rect = self.image.get_rect()

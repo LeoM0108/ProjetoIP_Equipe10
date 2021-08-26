@@ -19,7 +19,8 @@ class Player(pygame.sprite.Sprite):
  
         # Set height, width
         self.image = pygame.Surface([15, 15])
-        self.image.fill(self.funcoes.WHITE)
+        self.image = pygame.image.load("sprites/DinossaurFront.png")
+        self.image = pygame.transform.scale(self.image,(15,15))
  
         # Make our top-left corner the passed-in location.
         self.rect = self.image.get_rect()
