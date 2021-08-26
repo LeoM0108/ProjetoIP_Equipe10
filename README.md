@@ -11,6 +11,9 @@
   - [X] Telas de fim
   - [X] Mudar de fase quando pegar todos itens especificos
   - [X] Item que deixa o player imune
+  - [X] Tela inicial e de créditos
+  - [X] Tela de Game Over
+  - [X] Tela de Fim de Jogo
   - [ ] Design
   - [ ] ?
 
