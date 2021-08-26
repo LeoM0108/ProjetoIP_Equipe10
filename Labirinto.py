@@ -20,7 +20,7 @@ def main():
     screen = pygame.display.set_mode([800, 600])
  
     # Set the title of the window
-    pygame.display.set_caption('Labirinto')
+    pygame.display.set_caption('Jurassic Escape')
  
     # Create the player paddle object
     player = personagem.Player(45, 45)

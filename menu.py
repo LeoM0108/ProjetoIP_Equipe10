@@ -11,7 +11,9 @@ ALTURA = 600
 LARGURA = 800
 botao_enter = False
 WHITE = (255, 255, 255)
-pygame.display.set_caption('Labirinto')
+pygame.display.set_caption('Jurassic Escape')
+pygame_icon = pygame.image.load('logo.jfif')
+pygame.display.set_icon(pygame_icon)
 background = pygame.image.load("bg.jfif")
 background = pygame.transform.scale(background,(800,600))
 logo = pygame.image.load('logo.jfif').convert_alpha()
