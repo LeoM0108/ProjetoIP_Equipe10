@@ -2,6 +2,10 @@
 
 É um jogo, que consiste em percorrer um labirinto coletando itens para passar de fase no menor tempo possível e sem colidir nas paredes, pois se bater o jogo acaba. Atualmente existem três fases e 2 itens diferentes. Um tipo de item é necessário para passar de fase o outro item deixa o jogador imune, podendo colidir nas paredes.
 
+## Como rodar o jogo?
+
+- Clone o repositorio  e rode o arquivo "menu.py"
+
 ### Funcionalidades
   - [X] Movimentação do player
   - [X] Colisão do player com muro e itens coletaveis, colisão entre os itens coletaveis e o muro
