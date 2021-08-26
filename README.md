@@ -1,6 +1,7 @@
-# Labirinto
+![logo (1)](https://user-images.githubusercontent.com/69467961/131032851-04f87427-2154-40b1-bf73-a9a9168d2e98.png)
 
-É um jogo, que consiste em percorrer um labirinto coletando itens para passar de fase no menor tempo possível e sem colidir nas paredes, pois se bater o jogo acaba. Atualmente existem três fases e 2 itens diferentes. Um tipo de item é necessário para passar de fase o outro item deixa o jogador imune, podendo colidir nas paredes.
+
+É um jogo, que consiste em percorrer labirintos coletando itens para passar de fase no menor tempo possível e sem colidir nas paredes, pois se bater o jogo acaba. Atualmente existem três fases e 2 itens diferentes. Existe um item, também, que deixa o jogador imune, podendo colidir nas paredes.
 
 ## Como rodar o jogo?
 
