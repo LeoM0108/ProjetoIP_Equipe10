@@ -6,7 +6,7 @@
 
 - Clone o repositorio  e rode o arquivo "menu.py"
 
-### Funcionalidades
+### Tasks
   - [X] Movimentação do player
   - [X] Colisão do player com muro e itens coletaveis, colisão entre os itens coletaveis e o muro
   - [X] Itens coletaveis
@@ -19,9 +19,7 @@
   - [X] Tela de Game Over
   - [X] Tela de Fim de Jogo
   - [ ] Design
-  - [ ] ?
 
-    
 ### Contribuidores:
 
 <table>
