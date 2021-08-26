@@ -4,7 +4,7 @@
 
 ## Como rodar o jogo?
 
-1. Baixe o Pygame
+1. Baixe a biblioteca Pygame
 2. Clone o repositorio  e rode o arquivo "menu.py"
 
 ### Tasks
