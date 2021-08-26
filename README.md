@@ -4,7 +4,8 @@
 
 ## Como rodar o jogo?
 
-- Clone o repositorio  e rode o arquivo "menu.py"
+1. Baixe o Pygame
+2. Clone o repositorio  e rode o arquivo "menu.py"
 
 ### Tasks
   - [X] Movimentação do player
